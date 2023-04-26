@@ -1,2 +1,2 @@
-# pf-requests
-This repo is used to track new feature requests for PatternFly as epics. It contains no code.
+# pf-roadmap
+This repo is used to track feature work and epics for the PatternFly team
