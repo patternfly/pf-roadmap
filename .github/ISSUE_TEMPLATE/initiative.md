@@ -3,6 +3,7 @@ name: Initiative
 about: Suggest an idea for this project
 title: ''
 labels: ''
+type: Initiative
 assignees: ''
 
 ---
