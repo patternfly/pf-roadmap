@@ -23,6 +23,7 @@ assignees: ''
 3. Acceptance Criteria / Definition of Done
  - What specific conditions must be met for this epic to be considered complete and successful?
  - These should be high-level, measurable outcomes, not individual task completions.
+ - Are there any demos or artifacts that should get sign off from members outside the scrum team? Presenting those demos and getting that sign off would be part of the acceptance criteria.
 
 4. Issues
  - List of child issues/stories associated with this epic.
