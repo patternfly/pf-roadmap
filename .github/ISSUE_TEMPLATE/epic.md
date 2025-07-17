@@ -31,6 +31,7 @@ assignees: ''
 5. Risks
  - What potential obstacles, challenges, or uncertainties could impact the success or timeline of this epic?
  - Consider technical risks, resource risks, dependency risks, market risks, etc.
+ - Is there any considerations we should make to make sure this is well tested ahead of the release? Be prepared to bring testing requests to SOS as PRs go up or deliverables are produced throughout the quarter.
 
 6. Relevant Links
  - Provide links to any supporting documentation, designs, research, or related epics.
